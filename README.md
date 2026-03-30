@@ -67,11 +67,11 @@
 
 ---
 
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thribhuvanreddy&layout=compact&theme=tokyonight" />
-</p>
+<h3 align="center">📊 Most Used Languages</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thribhuvanreddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" />
+</p>
 ---
 
 ### 🚀 Featured Projects
